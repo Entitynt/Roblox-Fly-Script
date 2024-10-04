@@ -4,7 +4,7 @@ I take absolutely no responsibility whatsoever, it is up to you whether you use 
 # Using
 When you run loadstring code, press ```F``` and it will run, press ```F``` again and the flight code will stop.
 ```lua
-loadstring(game:HttpGet("github",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitynt/Roblox-Fly-Script/refs/heads/main/FlyCommand.lua",true))()
 ```
 
 # Code Explain
